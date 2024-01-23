@@ -41,4 +41,4 @@ Explore insights from the Google Play Store dataset using Python, Matplotlib, an
 
 This case study provides a comprehensive understanding of the Google Play Store dataset, uncovering trends and patterns that influence app ratings. The visualizations and analyses contribute valuable insights into the dynamics of the app ecosystem.
 
-Feel free to explore the Python notebooks.
+Feel free to explore the Python notebook.
